@@ -1,0 +1,1 @@
+@ECHO OFFSet /P a=pervoe chisloSet /P b=vtoroe chisloSet /A s=%a%+%b%ECHO %s%pause
